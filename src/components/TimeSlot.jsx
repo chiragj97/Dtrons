@@ -36,6 +36,7 @@ const TimeSlot = () => {
     updateSlot(slotDetails, selectedTimeslot.id).then(() => {
       getData();
       handleClose();
+      window.location.reload();
     });
   };
 
@@ -49,6 +50,7 @@ const TimeSlot = () => {
     updateSlot(slotDetails, selectedTimeslot.id).then(() => {
       getData();
       handleClose();
+      
     });
   };
 
@@ -71,7 +73,8 @@ const TimeSlot = () => {
                   <div>
                     <button
                       onClick={() => handleModal(timeslot)}
-                      className="btn btn-danger px-5"
+                      className="btn btn-danger"
+                      style={{ width: '20vh' }}
                     >
                       Update
                     </button>
@@ -80,7 +83,8 @@ const TimeSlot = () => {
                   <div>
                     <button
                       onClick={() => handleModal(timeslot)}
-                      className="btn btn-primary px-5"
+                      className="btn btn-primary"
+                      style={{ width: '20vh' }}
                     >
                       Book
                     </button>

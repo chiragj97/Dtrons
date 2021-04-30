@@ -27,21 +27,20 @@
       "phoneNumber": null
     },
     {
-      "id": 3,
+      "firstName": "",
+      "lastName": "",
+      "phoneNumber": "",
       "startTime": "12:00 PM",
       "endTime": "1:00 PM",
-      "status": false,
-      "contactName": "Hola",
-      "contactPhone": null
+      "id": 3
     },
     {
-      "id": 4,
+      "firstName": "",
+      "lastName": "",
+      "phoneNumber": "",
       "startTime": "1:00 PM",
       "endTime": "2:00 PM",
-      "status": false,
-      "firstName": null,
-      "lastName": null,
-      "phoneNumber": null
+      "id": 4
     },
     {
       "id": 5,
