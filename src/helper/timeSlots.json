@@ -1,0 +1,74 @@
+{
+  "slots": [
+    {
+      "firstName": "",
+      "lastName": "",
+      "phoneNumber": "",
+      "startTime": "9:00 AM",
+      "endTime": "10:00 AM",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "startTime": "10:00 AM",
+      "endTime": "11:00 AM",
+      "status": false,
+      "firstName": null,
+      "lastName": null,
+      "phoneNumber": null
+    },
+    {
+      "id": 2,
+      "startTime": "11:00 AM",
+      "endTime": "10:00 AM",
+      "status": false,
+      "firstName": null,
+      "lastName": null,
+      "phoneNumber": null
+    },
+    {
+      "id": 3,
+      "startTime": "12:00 PM",
+      "endTime": "1:00 PM",
+      "status": false,
+      "contactName": "Hola",
+      "contactPhone": null
+    },
+    {
+      "id": 4,
+      "startTime": "1:00 PM",
+      "endTime": "2:00 PM",
+      "status": false,
+      "firstName": null,
+      "lastName": null,
+      "phoneNumber": null
+    },
+    {
+      "id": 5,
+      "startTime": "2:00 PM",
+      "endTime": "3:00 PM",
+      "status": false,
+      "firstName": null,
+      "lastName": null,
+      "phoneNumber": null
+    },
+    {
+      "id": 6,
+      "startTime": "3:00 PM",
+      "endTime": "4:00 PM",
+      "status": false,
+      "firstName": null,
+      "lastName": null,
+      "phoneNumber": null
+    },
+    {
+      "id": 7,
+      "startTime": "4:00 PM",
+      "endTime": "5:00 PM",
+      "status": false,
+      "firstName": null,
+      "lastName": null,
+      "phoneNumber": null
+    }
+  ]
+}
